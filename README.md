@@ -1,2 +1,2 @@
-# NodeServer
-A basic NodeJS web server
+# GameServer
+A NodeJS Game Server
